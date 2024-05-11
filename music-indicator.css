@@ -1,0 +1,13 @@
+.music-bar {
+  position: absolute;
+  left: 0;
+  bottom: 35%;
+  height: 5px;
+  background-color: #32deaa; /* Red color for visibility */
+  width: 0%; /* Start with no fill */  
+  transition: width 0.5s linear; /* Smooth transition for width changes */
+  box-shadow: 0 0 10px #a6cabf, /* Horizontal shadow */
+  0 0 20px #a6cabf, /* Vertical shadow */
+  0 0 30px #a6cabf, /* Blur radius */
+  0 0 40px #a6cabf; /* Spread radius and color */
+}

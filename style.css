@@ -239,7 +239,7 @@ input#headshell {
 
 #play-button {
   position: absolute;
-  bottom: 10px;
+  bottom: 20%;
   left: 50%;
   transform: translateX(-50%);
   width: 60px; /* Adjust size as needed */

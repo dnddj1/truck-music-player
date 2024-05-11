@@ -5,8 +5,8 @@ body {
   .envelope-container{
     position: absolute;
     transform: translate(-50%, -50%);
-    left: 25%;
-    top: 42%;
+    left: 50%;
+    top: 15%;
     opacity: 0;
     /* animation: dudu 3s ease 10s 1 alternate forwards; */
     transform-origin: 0 0;
